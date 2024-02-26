@@ -22,9 +22,9 @@
           <div>
             <div class="text-base leading-7 text-gray-700 lg:max-w-lg">
               <p class="text-base font-semibold leading-7 text-indigo-600">Peintre dans le bâtiment en Belgique</p>
-              <h1 class="mt-2 text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">Peinture intérieur</h1>
+              <h1 class="mt-2 text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">Peinture extérieure</h1>
               <div class="max-w-xl">
-                <p class="mt-6">La peinture intérieure prend une tout autre dimension lorsqu'elle est mise en œuvre par un pro! Nous allons plus loin en vous proposant un service complet réalisé avec la rigueur qui nous a valu notre réputation et la reconnaissance de nos clients. Quel que soit votre projet, nous avons la solution et mettrons en œuvre les moyens les mieux adaptés.</p>
+                <p class="mt-6">Vous souhaitez rénover votre façade ou simplement y apporter une touche d'originalité? Nous avons la solution adaptée à vos besoins. Tous nos travaux sont effectués dans les règles de l'art, dans le respect du projet de nos clients et à l'aide des matériaux professionnels les plus efficaces, à même de garantir esthétisme et longévité.</p>
                 <p class="my-8 font-semibold">Franco et son équipe sont à votre service pour les travaux suivants:</p>
                 
                         <ul class="space-y-4 text-left text-gray-500 dark:text-gray-400">
@@ -32,37 +32,31 @@
                                 <svg class="flex-shrink-0 w-3.5 h-3.5 text-green-500 dark:text-green-400" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 16 12">
                                     <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M1 5.917 5.724 10.5 15 1.5"/>
                                 </svg>
-                                <span>Tout type de peinture, enduit et patine</span>
+                                <span>Peinture à la chaux</span>
                             </li>
                             <li class="flex items-center space-x-3 rtl:space-x-reverse">
                                 <svg class="flex-shrink-0 w-3.5 h-3.5 text-green-500 dark:text-green-400" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 16 12">
                                     <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M1 5.917 5.724 10.5 15 1.5"/>
                                 </svg>
-                                <span>Pose de moulures</span>
+                                <span>Nettoyage et réparation de façades</span>
                             </li>
                             <li class="flex items-center space-x-3 rtl:space-x-reverse">
                                 <svg class="flex-shrink-0 w-3.5 h-3.5 text-green-500 dark:text-green-400" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 16 12">
                                     <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M1 5.917 5.724 10.5 15 1.5"/>
                                 </svg>
-                                <span>Papiers peints</span>
+                                <span>Traitement des façades à l'aide d'un enduit hydrofuge</span>
                             </li>
                             <li class="flex items-center space-x-3 rtl:space-x-reverse">
                                 <svg class="flex-shrink-0 w-3.5 h-3.5 text-green-500 dark:text-green-400" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 16 12">
                                     <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M1 5.917 5.724 10.5 15 1.5"/>
                                 </svg>
-                                <span>Tout produit décoratif</span>
+                                <span>Cimentage et peinture de façade</span>
                             </li>
                             <li class="flex items-center space-x-3 rtl:space-x-reverse">
                                 <svg class="flex-shrink-0 w-3.5 h-3.5 text-green-500 dark:text-green-400" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 16 12">
                                     <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M1 5.917 5.724 10.5 15 1.5"/>
                                 </svg>
-                                <span>Vinyles et tapis plein</span>
-                            </li>
-                            <li class="flex items-center space-x-3 rtl:space-x-reverse">
-                                <svg class="flex-shrink-0 w-3.5 h-3.5 text-green-500 dark:text-green-400" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 16 12">
-                                    <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M1 5.917 5.724 10.5 15 1.5"/>
-                                </svg>
-                                <span>Parquet et plancher</span>
+                                <span>Peinture des ferronneries et menuiseries extérieures</span>
                             </li>
                         </ul>
                         

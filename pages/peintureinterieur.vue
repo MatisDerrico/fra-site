@@ -22,7 +22,7 @@
           <div>
             <div class="text-base leading-7 text-gray-700 lg:max-w-lg">
               <p class="text-base font-semibold leading-7 text-indigo-600">Peintre dans le bâtiment en Belgique</p>
-              <h1 class="mt-2 text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">Peinture intérieur</h1>
+              <h1 class="mt-2 text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">Peinture intérieure</h1>
               <div class="max-w-xl">
                 <p class="mt-6">La peinture intérieure prend une tout autre dimension lorsqu'elle est mise en œuvre par un pro! Nous allons plus loin en vous proposant un service complet réalisé avec la rigueur qui nous a valu notre réputation et la reconnaissance de nos clients. Quel que soit votre projet, nous avons la solution et mettrons en œuvre les moyens les mieux adaptés.</p>
                 <p class="my-8 font-semibold">Franco et son équipe sont à votre service pour les travaux suivants:</p>
